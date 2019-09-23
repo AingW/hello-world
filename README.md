@@ -21,7 +21,7 @@ print("hello, world !")
 就是这么interesting.
 
 -----
-2019
+>>>>>2019
 
 -----
 $$
@@ -30,16 +30,16 @@ $$
 
 $$
 2S_{三角形投影斜面}
-  &= ab\sqrt{1+\frac{c^2}{h^2_{ab}}} \\
-  &= ab\sqrt{1+\frac{c^2}{h^2_{ab}}} \\
-  &= \sqrt{(ab)^2+\frac{(ab)^2}{h^2_{ab}}c^2}
+  = ab\sqrt{1+\frac{c^2}{h^2_{ab}}} \\
+  = ab\sqrt{1+\frac{c^2}{h^2_{ab}}} \\
+  = \sqrt{(ab)^2+\frac{(ab)^2}{h^2_{ab}}c^2}
 $$
 
 。。。因为>$h^2_{ab}=\frac{(ab)^2}{a^2+b^2}$
 
 $$
 2S_{三角形投影斜面}
-  &=\sqrt{(ab)^2+(a^2+b^2)c^2} \\
-  &=\sqrt{(ab)^2+(ac)^2+(bc)^2} \\
-  &=S_{正方投影形斜面}
+  =\sqrt{(ab)^2+(a^2+b^2)c^2} \\
+  =\sqrt{(ab)^2+(ac)^2+(bc)^2} \\
+  =S_{正方投影形斜面}
 $$
